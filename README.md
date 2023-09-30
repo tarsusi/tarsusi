@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi you 👋
+
+## My name is Ömer Burak KARATAŞ
+
+As a seasoned JavaScript Developer with 8 years of experience, I possess a comprehensive skill set spanning both frontend and backend development. I am adept at crafting sophisticated user interfaces using React, Vue, and AngularJS, while also excelling in backend technologies like Node.js and Express.js. My proficiency extends to database management with MongoDB and PostgreSQL, as well as deployment on AWS and Docker. My goal is to leverage my senior-level capabilities to architect robust end-to-end solutions and drive technological advancement.
+
+- This is my tech stack: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/tarsusi/my-stack)
 
 <!--
 **tarsusi/tarsusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
