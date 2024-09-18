@@ -2,7 +2,7 @@
 
 ## My name is Ömer Burak KARATAŞ
 
-As a seasoned JavaScript Developer with 8 years of experience, I possess a comprehensive skill set spanning both frontend and backend development. I am adept at crafting sophisticated user interfaces using React, Vue, and AngularJS, while also excelling in backend technologies like Node.js and Express.js. My proficiency extends to database management with MongoDB and PostgreSQL, as well as deployment on AWS and Docker. My goal is to leverage my senior-level capabilities to architect robust end-to-end solutions and drive technological advancement.
+Senior Javascript Developer with 9 years of experience building scalable web applications using JavaScript/TypeScript and modern frameworks like VueJS, React and Angular and building backend applications using NodeJS with ExpressJS and NestJS. Skilled in creating responsive, user-centric interfaces and optimizing performance, while adhering to best practices such as TDD and CI/CD. Strong collaborator with backend teams, passionate about driving innovation and delivering impactful solutions.
 
 - This is my tech stack: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/tarsusi/my-stack)
 
